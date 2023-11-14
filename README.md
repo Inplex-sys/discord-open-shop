@@ -21,13 +21,13 @@ Provide a brief introduction to your project, explaining its purpose and main fe
 
 Highlight the main features of your Discord bot. Include a list or bullet points to make it easy for users to understand what your bot can do.
 
-- Feature 1
-- Feature 2
+- Self-Hosted
+- Databaseless
+- Easy to setup
 
 ## Installation
 
 Provide instructions on how to install and set up your Discord bot. Include any dependencies, configuration files, or environment variables that users need to set up.
-
   - Create a `.env` file and add your Discord bot token:
      ```
        TOKEN="YOUR_BOT_TOKEN"
